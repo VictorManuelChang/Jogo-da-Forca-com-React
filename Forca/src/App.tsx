@@ -50,7 +50,7 @@ function App() {
 
 
   return <div style={{
-    maxWidth: "700px",
+    maxWidth: "800px",
     display: "flex",
     flexDirection: "column",
     gap: "2rem",
